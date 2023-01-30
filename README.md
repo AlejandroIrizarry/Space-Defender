@@ -8,3 +8,5 @@ The code was created using the Repl.it IDE (Integrated Development Environment) 
 Contact me at: alejandroirizarry@programmer.net
 Follow me on Twitter: @aleirizarryn
 LinkedIn: https://linkedin.com/in/alejandroirizarry/
+
+Copyright (©) - 2023 You may not copy, distribute, or modify this project without the express written consent of the author. If you would like to use this project, please contact me at alejandroirizarry@programmer.net
